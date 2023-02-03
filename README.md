@@ -10,9 +10,6 @@ Welcome to Razecode Technologies Github Page
 
 ![Vistiors](https://visitor-badge.glitch.me/badge?page_id=razecodetech)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=razecodetech)
+![Razecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=razecodetech&show_icons=true&hide_border=true&count_private=True)
 
-![Shubendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=razecodetech&show_icons=true&hide_border=true&count_private=True)
-
-
-![Languages used by Shubhendra](https://github-readme-stats.vercel.app/api/top-langs/?username=razecodetech&hide_border=true&langs_count=10&layout=compact)
+![Languages used by Razecode](https://github-readme-stats.vercel.app/api/top-langs/?username=razecodetech&hide_border=true&langs_count=10&layout=compact)
