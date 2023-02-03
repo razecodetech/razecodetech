@@ -9,6 +9,8 @@ Welcome to Razecode Technologies Github Page
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,react,html,css,scss,linux,javascript,php,aws,heroku,arduino,bash,django,flask,fastapi,wordpress,raspberrypi,bootstrap,redis,mysql,git,github,mysql,regex,tailwind&perline=13"/>
   </p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql,html,css,wordpress,jquery,react,vue,flutter&perline=13)](https://skillicons.dev)
 
 ![Vistiors](https://visitor-badge.glitch.me/badge?page_id=razecodetech)
 
